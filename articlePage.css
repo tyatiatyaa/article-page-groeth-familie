@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.category {
+    margin: 0 4% 2.5% 0;
+    font-size: 1.2em;
+    padding: 1.5%;
+    cursor: pointer;
+    /* border: 1px solid black; */
+}
+
+.category:hover {
+    box-shadow: rgba(211, 223, 102, 0.35) 0px -50px 36px -28px inset;
+}
+
+.item:hover {
+    width: 95%;
+}
